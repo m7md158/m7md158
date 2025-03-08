@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**m7md158/m7md158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
@@ -40,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7md158&show_icons=true&locale=en" alt="m7md158" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7md158&" alt="m7md158" /></p>
-
