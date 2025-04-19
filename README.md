@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7md158" alt="m7md158" /></a> </p>
 
-- 🔭 I’m currently working on [Django Ecommerce](https://github.com/m7md158/E-commerce)
+- 🔭 I’m currently working on [Django Ecommerce](https://github.com/m7md158/E-commerce) , [BlogApp](https://github.com/m7md158/BlogAPP)
 
 - 🌱 I’m currently learning **FastApi , Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/m7md158?tab=repositories](https://github.com/m7md158?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-ahmed-abdel-samie-1a6510247/](https://www.linkedin.com/in/mohamed-ahmed-abdel-samie-1a6510247/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-a-abdelsamie-1a6510247/](https://www.linkedin.com/in/mohamed-a-abdelsamie-1a6510247/)
 
 - 💬 Ask me about **Django , RestfulApi ,Python, Traditional Machine Learning**
 
