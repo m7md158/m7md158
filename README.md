@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+<h3 align="center">A passionate Backend developer & AI from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7md158&label=Profile%20views&color=0e75b6&style=flat" alt="m7md158" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7md158" alt="m7md158" /></a> </p>
 
-- 🔭 I’m currently working on [Django Ecommerce](https://github.com/m7md158/E-commerce) 
+- 🔭 I’m currently working on [Django Ecommerce](https://github.com/m7md158/E-commerce) , [Django SocialWebsite](https://github.com/m7md158/SocialWebsite)
 
 - 🌱 I’m currently learning **FastApi , Machine Learning**
 
