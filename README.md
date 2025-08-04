@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7md158" alt="m7md158" /></a> </p>
 
-- 🔭 I’m currently working on [Django Ecommerce](https://github.com/m7md158/E-commerce) , [Django SocialWebsite](https://github.com/m7md158/SocialWebsite)
-
-- 🌱 I’m currently learning **FastApi , Machine Learning**
+- 🔭 I’m currently working on [Online-Shop](https://github.com/m7md158/Online-Shop) 
+- 🌱 I’m currently learning **FastApi , Docker , kafka 
 
 - 👨‍💻 All of my projects are available at [https://github.com/m7md158?tab=repositories](https://github.com/m7md158?tab=repositories)
 
