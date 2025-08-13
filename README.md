@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7md158" alt="m7md158" /></a> </p>
 
 - 🔭 I’m currently working on [Online-Shop](https://github.com/m7md158/Online-Shop) 
-- 🌱 I’m currently learning **FastApi , Docker , kafka 
+- 🌱 I’m currently learning **FastApi , Docker , kafka , CI/CD
 
 - 👨‍💻 All of my projects are available at [https://github.com/m7md158?tab=repositories](https://github.com/m7md158?tab=repositories)
 
