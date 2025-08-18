@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Backend developer & AI from Egypt</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7md158" alt="m7md158" /></a> </p>
-
 - 🔭 I’m currently working on [Online-Shop](https://github.com/m7md158/Online-Shop) 
 - 🌱 I’m currently learning **FastApi , Docker , kafka , CI/CD
 
