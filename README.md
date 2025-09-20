@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer & AI from Egypt</h3>
 
 
-- 🔭 I’m currently working on [Online-Shop](https://github.com/m7md158/Online-Shop) 
+- 🔭 I’m currently working at <h3> Wills Business Company </h3> as Backend Developer.
 - 🌱 I’m currently learning **FastApi , Docker , kafka , CI/CD
 
 - 👨‍💻 All of my projects are available at [https://github.com/m7md158?tab=repositories](https://github.com/m7md158?tab=repositories)
