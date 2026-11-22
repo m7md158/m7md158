@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-<h3 align="center">Backend developer </h3>
 
 
-- 🔭 I’m currently working at Rawafed Holding Company as Backend Developer.
-- 🌱 I’m currently learning **PHP Laravel , Docker , kafka , CI/CD
+- 🔭 I’m currently working at Rawafed Holding Company as Software Engineer.
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/m7md158?tab=repositories](https://github.com/m7md158?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-a-abdelsamie-1a6510247/](https://www.linkedin.com/in/mohamed-a-abdelsamie-1a6510247/)
 
-- 💬 Ask me about **Django , RestfulApi ,Python , PHP , Laravel , Traditional Machine Learning**
+- 💬 Ask me about **Django , RestfulApi ,Python , PHP , Laravel ,Odoo ,Traditional Machine Learning**
 
 - 📫 How to reach me **m7md.a7md158@gmail.com**
 
